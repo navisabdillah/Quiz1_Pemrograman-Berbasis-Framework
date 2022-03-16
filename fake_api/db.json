@@ -1,12 +1,22 @@
 {
-    "posts": [
+  "posts": [
+    {
+      "nim": "1941720147",
+      "nama": "Muhammad Navis Abdillah",
+      "alamat": "Jl. Sudimoro No 365",
+      "angkatan": "2019",
+      "kerja": "Membuat fake API",
+      "id": 1
+    },
+    [
       {
-        "nim": "1941720147",
-        "nama": "Muhammad Navis Abdillah",
-        "alamat": "Jl. Sudimoro No 365",
+        "nim": "1941720155",
+        "nama": "Arjuna Pratama P",
+        "alamat": "Jl. Kembang Turi Gang 3A No 22A",
         "angkatan": "2019",
         "kerja": "Membuat fake API",
-        "id": 1
+        "id": 2
       }
     ]
+  ]
 }
